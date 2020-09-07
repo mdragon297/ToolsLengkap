@@ -93,12 +93,12 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  RAHMAD  "$i"                  Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp  :  0888099xxxxx"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  kucingkaget22@gmail.com"$i"   Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :  mdragon "$i"                  Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp  :  0856009xxxxx"$i"              Ôûê"
+echo $i"Ôûê"$pu"  GMAIL     :  mdragon297@gmail.com"$i"   Ôûê"
 echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube RMD"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @19_mamadee"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @ardeaseptiaaani"$i"          Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  @*****"$i"               Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  @*****"$i"          Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -229,7 +229,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/rahmadxyz/sub-bot.git
+git clone https://github.com/mdragon/sub-bot.git
 cd sub-bot
 php sub-bot.php
 fi
@@ -266,12 +266,12 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Rahmad Ramadhani"
+echo $ku"Facebook :"$i" ******$"
 echo $ku"YouTube  :"$i" YouTube RMD"
-echo $ku"WhatsApp :"$i" 0887882xxxx"
+echo $ku"WhatsApp :"$i" 085xxxxxx"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
-echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE RMD }"
+echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE xxx }"
 exit
 fi
